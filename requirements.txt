@@ -6,3 +6,4 @@ langsmith==0.9.2
 pandas==3.0.3
 python-dotenv==1.2.2
 tqdm==4.68.3
+fastmcp==3.4.2
