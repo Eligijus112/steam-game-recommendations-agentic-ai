@@ -2,3 +2,5 @@
 data/
 .venv/
 .qdrant/
+.vscode/
+__pycache__/
